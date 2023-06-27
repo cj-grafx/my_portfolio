@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@700&family=Pacifico&display=swap');
+
+body {
+    background-color: #0f0f0f;
+    /* margin: auto; */
+    display: inline;
+}
+
+.box1 {
+    width: 999px;
+    height: 544px;
+    border-radius: 18px;
+    background-color: grey;
+    margin-top: 30px;
+    margin-left: 175px;
+}
+
+.work1 {
+    width: 999px;
+    height: 544px;
+    border-radius: 18px;
+}
+
+.edit1 {
+    font-size: 20px;
+    display: flex;
+    color: white;
+    background-color: grey;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid grey;
+    font-family: 'Belanosima', sans-serif;
+    text-align: center;
+    margin-top: 4px;
+    margin-left: 1px;
+    padding: 5px;
+}
+
+.ed1 {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    margin-top: 2px;
+    margin-left: 10px;
+}
+
+.box2 {
+    width: 999px;
+    height: 544px;
+    border-radius: 18px;
+    background-color: grey;
+    margin-top: 80px;
+    margin-left: 175px;
+}
+
+.work2 {
+    width: 999px;
+    height: 544px;
+    border-radius: 18px;
+}
+
+.edit2 {
+    font-size: 20px;
+    display: flex;
+    color: white;
+    background-color: grey;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid grey;
+    font-family: 'Belanosima', sans-serif;
+    text-align: center;
+    margin-top: 4px;
+    margin-left: 1px;
+    padding: 5px;
+}
+
+.ed2 {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    margin-top: 2px;
+    margin-left: 10px;
+}
+
+.box3 {
+    width: 999px;
+    height: 544px;
+    border-radius: 18px;
+    background-color: grey;
+    margin-top: 80px;
+    margin-left: 175px;
+}
+
+.work3 {
+    width: 999px;
+    height: 544px;
+    border-radius: 18px;
+}
+
+.edit3 {
+    font-size: 20px;
+    display: flex;
+    color: white;
+    background-color: grey;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid grey;
+    font-family: 'Belanosima', sans-serif;
+    text-align: center;
+    margin-top: 4px;
+    margin-left: 1px;
+    padding: 5px;
+}
+
+.ed3 {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    margin-top: 2px;
+    margin-left: 10px;
+}
+
+.box4 {
+    width: 999px;
+    height: 544px;
+    border-radius: 18px;
+    background-color: grey;
+    margin-top: 80px;
+    margin-left: 175px;
+}
+
+.work4 {
+    width: 999px;
+    height: 544px;
+    border-radius: 18px;
+}
+
+.edit4 {
+    font-size: 20px;
+    display: flex;
+    color: white;
+    background-color: grey;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid grey;
+    font-family: 'Belanosima', sans-serif;
+    text-align: center;
+    margin-top: 4px;
+    margin-left: 1px;
+    padding: 5px;
+}
+
+.ed4 {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    margin-top: 2px;
+    margin-left: 10px;
+}
